@@ -45,16 +45,7 @@ using a Deep Q-Network (DQN) and traffic simulation.
 
 **Focus:** Reinforcement Learning · DQN · Traffic Simulation · Python
 
----
 
-### 📄 AI Resume Analyzer
-
-An AI-oriented application for analyzing resumes and matching candidates
-with relevant job opportunities.
-
-**Focus:** Python · Resume Processing · Backend Development · Job Matching
-
----
 
 ### ⚙️ Adaptive Hypervisor using Reinforcement Learning
 
